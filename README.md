@@ -1,4 +1,4 @@
-# zowwad_25
+# Zowwad
 
 A new Flutter project.
 
