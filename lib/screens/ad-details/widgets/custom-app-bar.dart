@@ -14,7 +14,6 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
     return AppBar(
       automaticallyImplyLeading: false,
       scrolledUnderElevation: 0,
-
       actions: [
         IconButton(
           icon: Icon(Icons.arrow_forward_sharp),
