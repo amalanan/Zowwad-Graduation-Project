@@ -20,6 +20,7 @@ class CustomAppBar extends StatelessWidget implements PreferredSizeWidget {
           onPressed: onBack ?? () => Navigator.of(context).pop(),
         ),
       ],
+      
       title:
           titleWidget ??
           Text(
